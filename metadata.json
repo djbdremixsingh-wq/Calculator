@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "Professional, feature-rich calculator and unit converter with sleek modern UI, scientific modes, and calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
